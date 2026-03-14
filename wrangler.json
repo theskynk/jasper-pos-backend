@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "jasper-pos-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "15eac0bb-6d86-4727-8669-0975ccc464ce",
+			"database_name": "jasper-pos-backend"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
